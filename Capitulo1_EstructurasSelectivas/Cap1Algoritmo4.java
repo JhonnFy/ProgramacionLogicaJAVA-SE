@@ -1,9 +1,5 @@
 /*Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
 Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template*/
-package Cap1Algoritmo1;
-
-import java.util.*;
-import java.math.*;
 
 /*Dado como datos la categoría y el sueldo de un trabajador, calcule el aumento correspondiente teniendo en cuenta la siguiente tabla. 
 Categoria-Aumento
@@ -12,6 +8,11 @@ Categoria-Aumento
 3-8%
 4-7%
 Imprima la categoría del trabajador y su nuevo sueldo.*/
+package Cap1Algoritmo1;
+
+import java.util.*;
+import java.math.*;
+
 public class Cap1Algoritmo4 {
 
     public static void main(String[] args) {
